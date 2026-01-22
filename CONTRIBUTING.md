@@ -28,7 +28,7 @@ We welcome contributions in the following areas:
 1.  **Fork the repository** on GitHub.
 2.  **Clone your fork** locally:
     ```bash
-    git clone [https://github.com/your-username/Nyaya-Sahayak.git](https://github.com/your-username/Nyaya-Sahayak.git)
+    git clone https://github.com/Lokith007/Nyaya-Sahayak
     ```
 3.  **Create a branch** for your feature or fix:
     ```bash
